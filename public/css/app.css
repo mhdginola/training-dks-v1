@@ -1,0 +1,81 @@
+a {
+    text-decoration: none;
+}
+
+.h100vh {
+    height: 100vh;
+}
+
+.fit {
+    object-fit: cover;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w60 {
+    width: 60%;
+}
+
+.w40 {
+    width: 40%;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.w20 {
+    width: 20%;
+}
+
+.w10 {
+    width: 10%;
+}
+
+.v100 {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.v80 {
+    height: 80vh;
+}
+
+.v60 {
+    height: 60vh;
+}
+
+.v40 {
+    height: 40vh;
+}
+
+.v20 {
+    height: 20vh;
+}
+
+.v100p {
+    height: 100%;
+}
+
+.v50p {
+    height: 50%;
+}
+
+.custom-card-blur {
+    filter: blur(4px);
+    opacity: 0.7;
+}
+
+.custom-card-active {
+    background: #f8f9fa;
+    box-shadow: 0px 4px 6px rgba(33, 37, 41, 0.2),
+        0px 0px 1px rgba(33, 37, 41, 0.32);
+}
+
+.custom-background {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
